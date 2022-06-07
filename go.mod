@@ -73,3 +73,5 @@ require (
 	k8s.io/api v0.22.1
 	k8s.io/apimachinery v0.22.1
 )
+
+replace github.com/containers/buildah v1.23.4 => github.com/hjmodi/buildah v1.23.5-0.20220607205848-ee6fe660b74e
